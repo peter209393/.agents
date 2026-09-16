@@ -5,3 +5,6 @@ ln -s ~/.agents/AGENTS.md ~/.config/opencode/AGENTS.md
 
 ln -s ~/.agents/skills/ ~/.claude/skills/
 ln -s ~/.agents/skills/ ~/.codex/skills/
+
+
+npx skills@latest update
