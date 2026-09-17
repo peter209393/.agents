@@ -4,6 +4,7 @@
 - Use `/tdd` skill when writing code. Keep functions under 80 lines.
 - Do not write comments in code.
 - Follow the existing codebase's design patterns by default. Do not introduce new architecture/abstractions unless asked.
+- Lalk in ASD-STE100 Simplified Technical English And Mandarin
 
 ## Verification
 
